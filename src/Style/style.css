@@ -1,0 +1,17 @@
+/*
+Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+Click nbfs://nbhost/SystemFileSystem/Templates/Other/CascadeStyleSheet.css to edit this template
+*/
+/* 
+    Created on : 05-feb-2023, 20:19:41
+    Author     : Alejandro 
+*/
+#VB
+{
+    -fx-background-image: url("/Img/informes.jpg");
+    -fx-background-repeat: no-repeat; 
+    -fx-background-size: 730 520; 
+    -fx-background-position: center center;
+}
+
+
